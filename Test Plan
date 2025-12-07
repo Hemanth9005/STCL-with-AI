@@ -1,0 +1,77 @@
+# Test Plan  
+Application: TutorialNinja Demo  
+Prepared By: Senior QA Engineer  
+Version: 1.0
+
+## 1. Objective
+Validate functionality, performance, usability, and reliability of the e-commerce application.
+
+## 2. Scope
+Includes UI functionality, login, registration, cart, checkout, and product flows.
+
+## 3. Inclusions
+- User account flows
+- Product catalog flows
+- Cart behavior
+- Checkout process
+- Negative scenarios
+
+## 4. Exclusions
+- Backend database checks
+- Load testing
+- API testing
+
+## 5. Test Environment
+- URL: http://www.tutorialsninja.com/demo/
+- Browsers: Chrome, Firefox, Edge, Safari
+- OS: Windows, macOS
+
+## 6. Test Strategy
+### 6.1 Testing Types
+- Functional Testing  
+- Regression Testing  
+- Smoke Testing  
+- UI Testing  
+- Cross Browser  
+
+### 6.2 Approach
+- Create detailed test cases
+- Execute priority-based testing
+- Log defects in Jira/Excel
+
+## 7. Test Schedule
+| Activity | Duration |
+|----------|----------|
+| Test Planning | 1 day |
+| Test Case Design | 4 days |
+| Execution | 7 days |
+| Regression | 3 days |
+
+## 8. Deliverables
+- Test Cases
+- RTM
+- Execution Report
+- Defect Report
+- Test Summary Report
+
+## 9. Entry Criteria
+- Requirements finalized
+- Test environment ready
+
+## 10. Exit Criteria
+- All critical test cases executed
+- No severity 1 defects open
+
+## 11. Tools
+- Jira / Excel  
+- Selenium / Playwright  
+
+## 12. Risks & Mitigation
+| Risk | Mitigation |
+|------|------------|
+| UI changes | Use stable locators |
+| Environment down | Plan buffer time |
+
+## 13. Approvals
+QA Lead  
+Product Owner  
