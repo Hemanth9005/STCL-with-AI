@@ -1,0 +1,44 @@
+# Requirements Analysis Document  
+Application: TutorialNinja Demo E-Commerce  
+URL: http://www.tutorialsninja.com/demo/
+
+## 1. Business Requirements
+- Provide a platform for users to browse, search, and purchase products online.
+- Allow users to register, log in, and manage their account details.
+- Enable complete shopping cart and checkout functionality.
+
+## 2. Functional Requirements
+
+### 2.1 User Management
+- Register new users.
+- Login/Logout.
+- Forgotten password workflow.
+- Modify account details.
+
+### 2.2 Product Catalog
+- Browse categories.
+- Search products.
+- View product details (images, description, price).
+- Compare products.
+- Wishlist functionality.
+
+### 2.3 Cart & Checkout
+- Add/update/remove products from cart.
+- Apply coupons (if available).
+- Checkout → Billing → Shipping → Payment.
+- Guest checkout (if supported).
+
+### 2.4 Order Management
+- Order confirmation page.
+- Order history for logged-in users.
+
+## 3. Non-Functional Requirements
+- Page loads under 3 seconds.
+- Works on Chrome, Firefox, Edge, Safari.
+- Basic security requirements.
+- User-friendly UI and consistent navigation.
+
+## 4. Assumptions & Dependencies
+- Stable internet connection.
+- Browsers allow JavaScript and cookies.
+- No backend DB validation is in scope.
