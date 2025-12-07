@@ -1,0 +1,34 @@
+# Test Scenarios
+
+## 1. User Registration
+- Validate user can register with valid details.
+- Validate error messages for invalid entries.
+
+## 2. Login
+- Login with valid credentials.
+- Login with invalid credentials.
+- Logout functionality.
+
+## 3. Product Catalog
+- Browse categories.
+- Search products.
+- Sort products.
+
+## 4. Product Details
+- View product images.
+- Add item to wishlist.
+- Compare product.
+
+## 5. Cart
+- Add to cart.
+- Update quantity.
+- Remove product.
+
+## 6. Checkout
+- Proceed to checkout with valid details.
+- Verify order confirmation.
+
+## 7. Account Management
+- Edit account details.
+- Change password.
+- View order history.
