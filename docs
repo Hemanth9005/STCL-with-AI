@@ -1,0 +1,21 @@
+# STLC Documentation for TutorialNinja Demo E-Commerce Application
+
+This repository contains the full Software Testing Life Cycle (STLC) documentation for the application:
+
+👉 http://www.tutorialsninja.com/demo/
+
+## 📂 Included Documents
+- Requirements Analysis
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Requirement Traceability Matrix (RTM)
+- Defect Report
+- Test Summary Report
+
+## 🧪 Purpose
+To provide end-to-end testing documentation suitable for professional QA teams and interview preparation.
+
+## 👤 Author
+Hemanth Anand  
+Senior QA & Automation Engineer 
