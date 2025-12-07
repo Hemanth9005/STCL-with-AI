@@ -1,0 +1,26 @@
+# Test Cases
+
+## TC001 – User Registration
+| Field | Value |
+|-------|--------|
+| Objective | Validate new user registration |
+| Precondition | User not registered |
+| Steps | 1. Navigate to Registration page 2. Enter valid details 3. Submit |
+| Expected | User account created |
+
+## TC002 – Login with valid credentials
+Objective: Validate login  
+Steps: Enter valid username/password  
+Expected: User lands on My Account
+
+## TC003 – Search Product
+Steps: Enter "iPhone" in search bar  
+Expected: Relevant products displayed
+
+## TC004 – Add to Cart
+Steps: Open product → Add to Cart  
+Expected: Product added successfully
+
+## TC005 – Checkout
+Steps: Cart → Checkout → Enter details → Confirm  
+Expected: Order placed
