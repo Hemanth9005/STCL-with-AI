@@ -1,0 +1,6 @@
+# Defect Report
+
+| ID | Module | Severity | Description | Steps | Status |
+|----|---------|----------|-------------|--------|--------|
+| BUG001 | Login | High | Login accepts invalid email | Enter "abc" → No error shown | Open |
+| BUG002 | Cart | Medium | Total does not update after qty change | Change qty → No update | Fixed |
